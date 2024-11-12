@@ -688,7 +688,7 @@ sections:
       text: Let's Get In Touch!
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Fill the details and we will reach out.
     text: >
       Ready to start your next project with us? That's great! Give us a call or
       send us an email and we will get back to you as soon as possible!
