@@ -13,7 +13,7 @@ sections:
       business with our Innovative solutions and help you with Digital
       Initiatives!
     actions:
-      - label: Get started
+      - label: Find out more
         altText: ''
         url: /
         showIcon: false
