@@ -7,7 +7,7 @@ sections:
       text: "INNOVATIVE SOLUTIONS.\_ DIGITAL INITIATIVES"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Developing solutions for Global Village
     text: >
       Get in touch with us and we will showcase you how we can transform your
       business with our Innovative solutions and help you with Digital
