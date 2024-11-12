@@ -748,7 +748,7 @@ seo:
   metaDescription: >-
     We will showcase you how we can transform your business with our Innovative
     solutions and help you with Digital Initiatives!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/3.png
   type: Seo
   metaTags:
     - type: MetaTag
