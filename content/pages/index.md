@@ -755,5 +755,6 @@ seo:
       property: 'og:title'
       content: Innovative Solutions. Digital Initiatives
     - type: MetaTag
+      property: 'og:site_name'
 type: PageLayout
 ---
