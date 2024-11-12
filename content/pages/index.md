@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: INNOVATIVE SOLUTIONS DIGITAL INITIATIVES
+      text: "INNOVATIVE SOLUTIONS.\_ DIGITAL INITIATIVES"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
