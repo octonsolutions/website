@@ -750,5 +750,7 @@ seo:
     solutions and help you with Digital Initiatives!
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
