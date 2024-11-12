@@ -1,16 +1,16 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/logo_41_41.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Products",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Integra",
+                "altText": "Integra",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,20 +18,22 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
+                "label": "ServiceBelt",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "ServiceBelt"
+            },
+            {
+                "label": "Go Trade",
+                "url": "/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link",
+                "altText": "Go Trade"
             }
         ],
         "type": "FooterLinksGroup"
@@ -103,7 +105,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "© 2024 - **Octon** **Solutions**\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
