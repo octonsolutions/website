@@ -745,7 +745,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Octon Solutions - Innovative Solutions. Digital Initiatives
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    We will showcase you how we can transform your business with our Innovative
+    solutions and help you with Digital Initiatives!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
