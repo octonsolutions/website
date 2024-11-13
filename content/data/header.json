@@ -35,7 +35,7 @@
             "links": [
                 {
                     "label": "Integra",
-                    "url": "/",
+                    "url": "/integra",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
