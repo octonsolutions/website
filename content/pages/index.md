@@ -601,7 +601,7 @@ sections:
       type: TitleBlock
     subtitle: Our most popular products
     items:
-      - title: Feature Item One
+      - title: Integra
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
