@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "📞 Call Us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
