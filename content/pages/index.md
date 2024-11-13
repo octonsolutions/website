@@ -593,7 +593,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Featured Products
+      text: Featured Product
       color: text-primary
       styles:
         self:
