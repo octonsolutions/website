@@ -50,7 +50,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Go Trade",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
