@@ -346,7 +346,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: grow audience
       color: text-primary
       type: Badge
     colors: bg-neutral-fg-dark
