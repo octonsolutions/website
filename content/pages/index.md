@@ -608,7 +608,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           url: /images/Integra.png
-          altText: Placeholder Image
+          altText: Integra
           styles:
             self:
               borderRadius: x-large
