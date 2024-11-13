@@ -31,7 +31,7 @@
         },
         {
             "label": "Products",
-            "altText": "Dropdown",
+            "altText": "All Products",
             "links": [
                 {
                     "label": "Dropdown item",
