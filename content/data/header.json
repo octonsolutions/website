@@ -42,7 +42,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "ServiceBelt",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
