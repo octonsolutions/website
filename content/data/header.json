@@ -51,7 +51,7 @@
                 },
                 {
                     "label": "Go Trade",
-                    "url": "/",
+                    "url": "/go-trade",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
