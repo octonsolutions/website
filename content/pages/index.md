@@ -593,7 +593,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features hereFe
+      text: Featured Products
       color: text-primary
       styles:
         self:
