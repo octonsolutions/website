@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why Choose us over others?
     items:
       - type: FeaturedItem
         title: Innovation
@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: advantage
       color: text-primary
       styles:
         self:
@@ -346,7 +346,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: grow audience
       color: text-primary
       type: Badge
     colors: bg-neutral-fg-dark
@@ -381,7 +381,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: strategy
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -467,7 +467,7 @@ sections:
       - title: >-
           "Design is how it works, how it functions. Good design doesn't just
           make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
+        tagline: Web Solutions
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -497,7 +497,7 @@ sections:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
+        tagline: Consulting
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -527,7 +527,7 @@ sections:
       - title: >-
           "Design can be art. Design can be aesthetics. Design is so simple,
           that's why it is so complicated."
-        tagline: Testimonial 5
+        tagline: Content Strategy
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
