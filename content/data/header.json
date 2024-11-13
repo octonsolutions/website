@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "📞 Call Us",
+            "label": "📧 Email Us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
