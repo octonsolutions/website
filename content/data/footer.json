@@ -87,12 +87,6 @@
             "url": "/",
             "icon": "youtube",
             "elementId": ""
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
