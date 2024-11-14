@@ -13,7 +13,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Startups
+        title: Monthly
         price: $10
         details: per month / per user
         description: >-
