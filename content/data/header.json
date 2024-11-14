@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "📧 Email Us",
+            "label": "✉ Email Us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
