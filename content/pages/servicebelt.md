@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Startups
         price: $10
-        details: No credit card required
+        details: per month / per user
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
