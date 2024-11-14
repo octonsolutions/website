@@ -1,7 +1,7 @@
 ---
 title: Case study 3
 slug: case-study-3
-date: '2024-09-18'
+date: '2024-09-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
