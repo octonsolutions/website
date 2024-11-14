@@ -82,7 +82,7 @@ sections:
             iconPosition: right
             style: secondary
           - type: Button
-            label: Get started
+            label: Buy Now
             altText: ''
             url: /
             showIcon: false
