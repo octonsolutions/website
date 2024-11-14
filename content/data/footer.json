@@ -82,6 +82,13 @@
             "type": "Social"
         },
         {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/",
+            "icon": "youtube",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
