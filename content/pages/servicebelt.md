@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Service Belt
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Grow your service at your pace
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
