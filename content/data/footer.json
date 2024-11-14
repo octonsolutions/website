@@ -84,7 +84,7 @@
         {
             "type": "Social",
             "altText": "YouTube icon",
-            "url": "/",
+            "url": "https://youtube.com/@octonsolutions",
             "icon": "youtube",
             "elementId": ""
         }
