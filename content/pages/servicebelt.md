@@ -47,7 +47,7 @@ sections:
       - type: PricingPlan
         title: Quarterly
         price: $25
-        details: per month
+        details: per user / quater
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
