@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Monthly
         price: $10
-        details: per month / per user
+        details: per user / month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
