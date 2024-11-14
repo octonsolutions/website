@@ -65,7 +65,7 @@
         {
             "type": "Social",
             "altText": "Facebook link",
-            "url": "/octonsolutions",
+            "url": "https://facebook.com/octonsolutions",
             "icon": "facebook",
             "elementId": ""
         },
