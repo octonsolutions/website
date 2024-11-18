@@ -407,7 +407,7 @@ sections:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
+        tagline: Web Solutions
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -437,7 +437,7 @@ sections:
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
-        tagline: Testimonial 2
+        tagline: Content Strategy
         subtitle: 'John Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -557,7 +557,7 @@ sections:
       - title: >-
           “Quote from some important person goes right here. I love using
           Netlify Create.”
-        tagline: Testimonial 6
+        tagline: Consulting
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
