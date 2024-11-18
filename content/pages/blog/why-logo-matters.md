@@ -17,7 +17,7 @@ featuredImage:
 seo:
   metaTitle: Why Your Website Logo Matters
   metaDescription: '#FirstImpression #LogoDesign #BrandIdentity #WebDesign #DigitalMarketing'
-  socialImage: /images/abstract-feature3.svg
+  socialImage: /images/Octon.png
   type: Seo
   metaTags: []
 colors: bg-light-fg-dark
