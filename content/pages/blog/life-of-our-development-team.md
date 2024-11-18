@@ -3,9 +3,10 @@ title: 'The Power of First Impressions: Why Your Website''s Logo Matters'
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Imagine walking into a store and being instantly captivated by an elegant,
+  memorable storefront that promises quality and style. Your website’s logo is
+  that storefront in the digital world—a potent emblem that can engage and
+  captivate your audience at first glance.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
