@@ -16,7 +16,7 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: Why Your Website Logo Matters
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: '#FirstImpression #LogoDesign #BrandIdentity #WebDesign #DigitalMarketing'
   socialImage: /images/abstract-feature3.svg
   type: Seo
 colors: bg-neutral-fg-dark
