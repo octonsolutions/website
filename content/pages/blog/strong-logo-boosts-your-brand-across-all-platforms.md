@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'Beyond the Web: How a Strong Logo Boosts Your Brand Across All Platforms'
-slug: what-is-a-design-system
+slug: strong-logo-boosts-your-brand-across-all-platforms
 date: '2023-02-14'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
