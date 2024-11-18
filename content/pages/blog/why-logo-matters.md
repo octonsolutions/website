@@ -19,6 +19,8 @@ seo:
   metaDescription: '#FirstImpression #LogoDesign #BrandIdentity #WebDesign #DigitalMarketing'
   socialImage: /images/abstract-feature3.svg
   type: Seo
+  metaTags:
+    - type: MetaTag
 colors: bg-neutral-fg-dark
 type: PostLayout
 author: content/data/person2.json
