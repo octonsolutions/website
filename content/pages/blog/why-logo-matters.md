@@ -20,7 +20,7 @@ seo:
   socialImage: /images/abstract-feature3.svg
   type: Seo
   metaTags: []
-colors: bg-neutral-fg-dark
+colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person2.json
 styles:
