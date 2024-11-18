@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: What is a Design System
+title: 'Beyond the Web: How a Strong Logo Boosts Your Brand Across All Platforms'
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
