@@ -19,7 +19,7 @@ seo:
   metaDescription: '#FirstImpression #LogoDesign #BrandIdentity #WebDesign #DigitalMarketing'
   type: Seo
   metaTags: []
-  socialImage: /images/Octon.png
+  socialImage: /images/OctonSolutions.png
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person2.json
