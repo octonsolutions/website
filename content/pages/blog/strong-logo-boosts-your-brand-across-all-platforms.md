@@ -48,7 +48,7 @@ content: >-
   gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
   justo.
 bottomSections: []
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   metaTitle: How a Strong Logo Boosts Your Brand Across All Platforms
