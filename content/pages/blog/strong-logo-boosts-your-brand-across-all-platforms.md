@@ -4,9 +4,9 @@ title: 'Beyond the Web: How a Strong Logo Boosts Your Brand Across All Platforms
 slug: strong-logo-boosts-your-brand-across-all-platforms
 date: '2023-02-14'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Ever wondered why some brands are instantly recognizable, whether on a
+  billboard, online ad, or a coffee cup? The secret often lies in a strong,
+  versatile logo that transcends medium and message.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
