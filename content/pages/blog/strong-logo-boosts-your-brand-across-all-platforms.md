@@ -52,7 +52,9 @@ isFeatured: true
 isDraft: false
 seo:
   metaTitle: How a Strong Logo Boosts Your Brand Across All Platforms
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: >-
+    #BrandConsistency #LogoAcrossPlatforms #MarketingStrategy #VisualIdentity
+    #CrossPlatformBranding
   socialImage: /images/abstract-feature3.svg
   type: Seo
 colors: bg-light-fg-dark
