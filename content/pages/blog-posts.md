@@ -30,6 +30,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: See all the blog posts below
 slug: blog-posts
 isDraft: false
 seo:
