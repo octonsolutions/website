@@ -51,7 +51,7 @@ bottomSections: []
 isFeatured: true
 isDraft: false
 seo:
-  metaTitle: What is a Design System
+  metaTitle: How a Strong Logo Boosts Your Brand Across All Platforms
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature3.svg
   type: Seo
