@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: 'The Power of First Impressions: Why Your Website''s Logo Matters'
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
