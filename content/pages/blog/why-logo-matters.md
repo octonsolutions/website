@@ -9,7 +9,7 @@ excerpt: >-
   captivate your audience at first glance.
 featuredImage:
   url: /images/abstract-feature3.svg
-  altText: Thumbnail
+  altText: Why Logo Matters
   type: ImageBlock
   styles:
     self:
