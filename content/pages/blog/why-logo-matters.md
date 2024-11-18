@@ -1,6 +1,6 @@
 ---
 title: 'The Power of First Impressions: Why Your Website''s Logo Matters'
-slug: life-of-our-development-team
+slug: why-logo-matters
 date: '2023-03-27'
 excerpt: >-
   Imagine walking into a store and being instantly captivated by an elegant,
