@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: 'https://servicebelt.com/create-account.php'
         icon: arrowRight
         iconPosition: right
         style: secondary
