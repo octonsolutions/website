@@ -28,7 +28,7 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
-![](/images/OctonSolutions.png)
+![](https://preview--octsol-22f71.stackbit.dev/images/OctonSolutions.png)
 
 > Imagine walking into a store and being instantly captivated by an elegant, memorable storefront that promises quality and style. Your website’s logo is that storefront in the digital world—a potent emblem that can engage and captivate your audience at first glance.
 
