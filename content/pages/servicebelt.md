@@ -28,6 +28,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/devices-main-fm.png
     badge:
       type: Badge
       label: Featured
