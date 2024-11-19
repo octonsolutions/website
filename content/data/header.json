@@ -75,7 +75,7 @@
         {
             "label": "☎ Call Us",
             "altText": "Sign up",
-            "url": "/",
+            "url": "tel:+917900085116",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
