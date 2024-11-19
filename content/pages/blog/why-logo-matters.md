@@ -8,8 +8,8 @@ excerpt: >-
   that storefront in the digital world—a potent emblem that can engage and
   captivate your audience at first glance.
 featuredImage:
-  url: /images/abstract-feature3.svg
-  altText: Thumbnail
+  url: /images/OctonSolutions.png
+  altText: Why Logo Matters
   type: ImageBlock
   styles:
     self:
@@ -17,9 +17,9 @@ featuredImage:
 seo:
   metaTitle: Why Your Website Logo Matters
   metaDescription: '#FirstImpression #LogoDesign #BrandIdentity #WebDesign #DigitalMarketing'
-  socialImage: /images/abstract-feature3.svg
   type: Seo
   metaTags: []
+  socialImage: /images/OctonSolutions.png
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person2.json
