@@ -8,7 +8,7 @@ excerpt: >-
   that storefront in the digital world—a potent emblem that can engage and
   captivate your audience at first glance.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/OctonSolutions.png
   altText: Why Logo Matters
   type: ImageBlock
   styles:
