@@ -61,6 +61,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: VideoBlock
       title: Title of the video
