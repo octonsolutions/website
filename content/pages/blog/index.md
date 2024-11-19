@@ -35,7 +35,7 @@ seo:
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/OctonSolutions.png
   type: Seo
 type: PostFeedLayout
 bottomSections: []
