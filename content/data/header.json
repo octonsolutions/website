@@ -83,7 +83,7 @@
         },
         {
             "label": "✉ Email Us",
-            "url": "/",
+            "url": "mailto:shailesh.pisat@servicebelt.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
