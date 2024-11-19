@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: All device compatible
       url: /images/devices-main-fm.png
     badge:
       type: Badge
