@@ -755,5 +755,6 @@ seo:
     - type: MetaTag
       property: 'og:site_name'
       content: Octon Solutions
+    - type: MetaTag
 type: PageLayout
 ---
