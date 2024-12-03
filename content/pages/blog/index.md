@@ -37,6 +37,8 @@ seo:
     and design.
   socialImage: /images/OctonSolutions.png
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PostFeedLayout
 bottomSections: []
 postFeed:
